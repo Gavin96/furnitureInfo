@@ -1726,14 +1726,27 @@ div#portfoliolist {
     font-family:黑体;
     /*font-size:16px;*/
     font-weight:bold;
-    font-size:0.4px;
+    font-size:0.04px;
+    /*value of px must > 1*/
     color:#E7D299;
+    left: 8px; top: 15px
 }
 .otherFont{
     font-family:黑体;
     font-weight:bold;
     font-size:0.08px;
     color:#E7D299;
+    left: 8px; top: 15px
+}
+@media (min-width: 350px) {
+    .indexFont{
+        font-size:0.3px;
+        left: 11px; top: 15px
+    }
+    .otherFont{
+        font-size:0.3px;
+        left: 13px; top: 15px
+    }
 }
 @media (min-width: 400px) {
     .indexFont{
@@ -1747,12 +1760,12 @@ div#portfoliolist {
 }
 @media (min-width: 500px) {
     .indexFont{
-        font-size:0.8px;
-        left: 22px; top: 4px
+        font-size:0.7px;
+        left: 28px; top: 4px
     }
     .otherFont{
-        font-size:0.8px;
-        left: 23px; top: 4px
+        font-size:0.7px;
+        left: 18px; top: 4px
     }
 }
 @media (min-width: 600px) {
