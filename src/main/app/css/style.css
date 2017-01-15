@@ -134,6 +134,7 @@ ul.nav.navbar-nav li a.active {
 }
 ul.nav.navbar-nav {
       margin-top: 2.5em;
+    /*margin-top: 18px;*/
 }
 .grid__item.color-11:hover {
   box-sizing: 0;
@@ -1718,6 +1719,18 @@ div#portfoliolist {
 .container:after { content: "\0020"; display: block; height: 0; clear: both; visibility: hidden; }
 .clearfix:before,
 .clearfix:after,
+.indexFont{
+    font-family:黑体;
+    font-size:16px;
+    font-weight:bold;
+    color:#E7D299;
+}
+/*useless*/
+/*.bg-wood{*/
+    /*background-image: url(../images/woodborder.png);*/
+    /*!*width:120px;*!*/
+    /*!*height:30px;*!*/
+/*}*/
 .row:before,
 .row:after {
   content: '\0020';
