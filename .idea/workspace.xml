@@ -2,14 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a498b6b9-913f-49e1-8727-853623c5d1dd" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/Administrator.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/custInfo.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/app/views/about.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/app/views/blog.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/app/views/contact.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/app/views/gallery.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/app/views/services.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/app/views/single.html" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/app/css/style.css" afterPath="$PROJECT_DIR$/src/main/app/css/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/app/views/index.html" afterPath="$PROJECT_DIR$/src/main/app/views/index.html" />
@@ -41,8 +33,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/app/views/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="171" column="24" lean-forward="true" selection-start-line="171" selection-start-column="24" selection-end-line="171" selection-end-column="24" />
+            <state relative-caret-position="199">
+              <caret line="99" column="60" lean-forward="false" selection-start-line="99" selection-start-column="60" selection-end-line="99" selection-end-column="60" />
               <folding>
                 <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -70,8 +62,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/app/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="48208">
-              <caret line="2096" column="11" lean-forward="false" selection-start-line="2096" selection-start-column="5" selection-end-line="2096" selection-end-column="11" />
+            <state relative-caret-position="364">
+              <caret line="124" column="18" lean-forward="true" selection-start-line="124" selection-start-column="18" selection-end-line="124" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -86,12 +78,13 @@
       <find>href</find>
       <find>navbar-nav</find>
       <find>indexFon</find>
-      <find>indexFont</find>
       <find>header-nav</find>
       <find>container</find>
       <find>navigation</find>
       <find>navbar</find>
       <find>single</find>
+      <find>indexFont</find>
+      <find>active</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -568,12 +561,12 @@
       <workItem from="1484381669191" duration="2186000" />
       <workItem from="1484468986896" duration="7971000" />
       <workItem from="1484480277811" duration="23000" />
-      <workItem from="1484480336835" duration="43000" />
+      <workItem from="1484480336835" duration="2246000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13591000" />
+    <option name="totallyTimeSpent" value="15794000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -788,19 +781,19 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/app/views/single.html" />
     <entry file="file://$PROJECT_DIR$/src/main/app/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48208">
-          <caret line="2096" column="11" lean-forward="false" selection-start-line="2096" selection-start-column="5" selection-end-line="2096" selection-end-column="11" />
+        <state relative-caret-position="364">
+          <caret line="124" column="18" lean-forward="true" selection-start-line="124" selection-start-column="18" selection-end-line="124" selection-end-column="18" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/app/views/single.html" />
     <entry file="file://$PROJECT_DIR$/src/main/app/views/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="171" column="24" lean-forward="true" selection-start-line="171" selection-start-column="24" selection-end-line="171" selection-end-column="24" />
+        <state relative-caret-position="199">
+          <caret line="99" column="60" lean-forward="false" selection-start-line="99" selection-start-column="60" selection-end-line="99" selection-end-column="60" />
           <folding>
             <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
